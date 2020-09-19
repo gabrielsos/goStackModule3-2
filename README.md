@@ -9,7 +9,7 @@
 - Instale as dependências usando o comando **yarn**.
 - Rode a FAKEApi disponibilizada através do comando **yarn json-server server.json -p 3333**.
 - Para iniciar a aplicação digite o comando **yarn start**.
-- Para abrir no dispositivo ou emulador digite **yarn run**.
+- Para abrir no dispositivo ou emulador digite **yarn android**.
 
 ## Tela da aplicação:
 
